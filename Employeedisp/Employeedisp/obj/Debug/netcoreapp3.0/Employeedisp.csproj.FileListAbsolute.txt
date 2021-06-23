@@ -1,0 +1,11 @@
+C:\Users\santosh teknur\source\repos\Employeedisp\Employeedisp\bin\Debug\netcoreapp3.0\Employeedisp.exe
+C:\Users\santosh teknur\source\repos\Employeedisp\Employeedisp\bin\Debug\netcoreapp3.0\Employeedisp.deps.json
+C:\Users\santosh teknur\source\repos\Employeedisp\Employeedisp\bin\Debug\netcoreapp3.0\Employeedisp.runtimeconfig.json
+C:\Users\santosh teknur\source\repos\Employeedisp\Employeedisp\bin\Debug\netcoreapp3.0\Employeedisp.runtimeconfig.dev.json
+C:\Users\santosh teknur\source\repos\Employeedisp\Employeedisp\bin\Debug\netcoreapp3.0\Employeedisp.dll
+C:\Users\santosh teknur\source\repos\Employeedisp\Employeedisp\bin\Debug\netcoreapp3.0\Employeedisp.pdb
+C:\Users\santosh teknur\source\repos\Employeedisp\Employeedisp\obj\Debug\netcoreapp3.0\Employeedisp.csprojAssemblyReference.cache
+C:\Users\santosh teknur\source\repos\Employeedisp\Employeedisp\obj\Debug\netcoreapp3.0\Employeedisp.AssemblyInfoInputs.cache
+C:\Users\santosh teknur\source\repos\Employeedisp\Employeedisp\obj\Debug\netcoreapp3.0\Employeedisp.AssemblyInfo.cs
+C:\Users\santosh teknur\source\repos\Employeedisp\Employeedisp\obj\Debug\netcoreapp3.0\Employeedisp.dll
+C:\Users\santosh teknur\source\repos\Employeedisp\Employeedisp\obj\Debug\netcoreapp3.0\Employeedisp.pdb

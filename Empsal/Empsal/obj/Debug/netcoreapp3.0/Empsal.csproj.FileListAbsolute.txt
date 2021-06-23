@@ -1,0 +1,11 @@
+C:\Users\santosh teknur\source\repos\Empsal\Empsal\obj\Debug\netcoreapp3.0\Empsal.csprojAssemblyReference.cache
+C:\Users\santosh teknur\source\repos\Empsal\Empsal\obj\Debug\netcoreapp3.0\Empsal.AssemblyInfoInputs.cache
+C:\Users\santosh teknur\source\repos\Empsal\Empsal\obj\Debug\netcoreapp3.0\Empsal.AssemblyInfo.cs
+C:\Users\santosh teknur\source\repos\Empsal\Empsal\bin\Debug\netcoreapp3.0\Empsal.exe
+C:\Users\santosh teknur\source\repos\Empsal\Empsal\bin\Debug\netcoreapp3.0\Empsal.deps.json
+C:\Users\santosh teknur\source\repos\Empsal\Empsal\bin\Debug\netcoreapp3.0\Empsal.runtimeconfig.json
+C:\Users\santosh teknur\source\repos\Empsal\Empsal\bin\Debug\netcoreapp3.0\Empsal.runtimeconfig.dev.json
+C:\Users\santosh teknur\source\repos\Empsal\Empsal\bin\Debug\netcoreapp3.0\Empsal.dll
+C:\Users\santosh teknur\source\repos\Empsal\Empsal\bin\Debug\netcoreapp3.0\Empsal.pdb
+C:\Users\santosh teknur\source\repos\Empsal\Empsal\obj\Debug\netcoreapp3.0\Empsal.dll
+C:\Users\santosh teknur\source\repos\Empsal\Empsal\obj\Debug\netcoreapp3.0\Empsal.pdb
